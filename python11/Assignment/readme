@@ -1,0 +1,10 @@
+    Class Used: BankAccount
+    Methods:
+        __init__(self, owner, balance=0.0) → initializes account holder and balance.
+    deposit(self, amount) → adds money to the account (only if positive).
+    withdraw(self, amount) → deducts money, raises error on insufficient balance.
+    display(self) → shows account holder and current balance.
+    Demonstrates OOP concepts: classes, objects, instance variables, and methods.
+    Supports multiple accounts using lists and loops.
+    Includes exception handling for overdraw protection.
+    Simulates a basic banking system with deposit and withdrawal operations.
