@@ -1,0 +1,50 @@
+ECOMMERCE:
+
+    Base Product class extended into Electronics and Clothing.
+    Showed how inheritance organizes product categories.
+    Used DiscountMixin to apply offers flexibly.
+    Added ExportMixin to export product info.
+    Demonstrated clean separation of business logic and utility features.
+    Modeled a real-world e-commerce system.
+    Improved reusability of discount and export features across product types.
+
+
+FOOD TRACKING:
+
+    Base Order extended into PizzaOrder and BurgerOrder.
+    Showed inheritance for handling different food items.
+    Used TrackMixin for real-time order tracking.
+    Added InvoiceMixin for billing functionality.
+    dded RewardMixin for customer loyalty points.
+    Simulated a food delivery application.
+    Learned to combine multiple mixins for richer features.
+
+
+HOTEL BOOKING:
+    Base Booking extended into HotelBooking.
+    Showed inheritance for hotel reservation systems.
+    Used RewardMixin for loyalty points.
+    Added CancelMixin for booking cancellation.
+    Demonstrated flexibility in travel/hospitality apps.
+    Separated core booking logic from extra services.
+    Made the system modular and scalable.
+
+   
+MUSIC STREAMING:
+    Base Song extended into Playlist.
+    Showed inheritance for grouping songs.
+    Used ShareMixin for sharing music.
+    Added LikeMixin for user interactions.
+    Modeled a music streaming platform.
+    Demonstrated how mixins handle social features.
+    Highlighted real-world OOP use in entertainment apps.
+
+
+SMART VECHICLE:
+    Base Vehicle extended into ElectricCar.
+    Showed inheritance for modern vehicle specialization.
+    Used GPSMixin for location tracking.
+    Added LoggerMixin for activity logging.
+    Applied OOP to IoT/Smart Car systems.
+    Combined core functionality with modular features.
+    Demonstrated real-world connected vehicle design.
