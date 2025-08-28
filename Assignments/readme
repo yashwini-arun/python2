@@ -1,0 +1,9 @@
+Flatten:
+    Flattens nested lists of arbitrary depth
+    Uses generator function with yield from
+    Handles recursion with memory efficiency
+    Includes logging at all levels:
+        Logs empty list with WARNING
+        Logs wrong input type with ERROR
+        Shows each yielded value with DEBUG
+        Example data included for testing
