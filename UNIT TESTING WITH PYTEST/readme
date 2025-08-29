@@ -1,0 +1,13 @@
+Contains multiple standalone modules with tests.
+Files: coupon.py, order.py, restaurant.py, tip.py, loyalty.py + test files.
+Real-life examples covered:
+Coupon discounts.
+Order billing with tax.
+Restaurant open/close.
+Tip calculator.
+Loyalty points redemption.
+Each module has a dedicated test file.
+Requires pytest installed.
+Run tests with: pytest -v "UNIT TESTING WITH PYTEST/".
+Run specific test file: pytest -v UNIT TESTING WITH PYTEST/test_tip.py.
+Example output shows all PASSED test cases.
