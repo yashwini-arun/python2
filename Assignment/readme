@@ -1,0 +1,11 @@
+    Contains app.py (BankAccount, flatten, decorator) and test_app.py.
+    Demonstrates multiple concepts in one file.
+    Features:
+        BankAccount (deposit, withdraw, balance).
+        Flatten nested lists.
+        Decorator to measure execution time.
+    Requires pytest installed.
+    Run tests with: pytest -v Assignment/.
+    Run specific test: pytest -v Assignment/test_app.py::test_deposit.
+    Example output shows PASSED tests.
+    Self-contained mini-project for practicing pytest.
