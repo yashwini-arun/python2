@@ -1,7 +1,0 @@
-    The decorator uses time.time() to calculate the runtime of the wrapped function.
-    Logging is configured to display function name and time taken in seconds.
-    The @wraps decorator from functools is used to preserve the original function’s metadata.
-    The provided example simulates a slow function using time.sleep(n).
-    Each function call logs an INFO message with the execution time.
-    This pattern is very useful in performance monitoring, debugging, and profiling real-world applications.
-    The code is reusable and can be applied to any function by simply adding @timed above it.
