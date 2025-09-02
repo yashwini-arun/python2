@@ -1,0 +1,7 @@
+    Python script to extract emails and phone numbers from text.
+    Uses Regular Expressions (Regex) for pattern matching.
+    Supports multiple email formats (example@domain.com, .org, .co.in).
+    Supports phone formats with country codes, brackets, dashes, or plain numbers.
+    Lightweight — only uses Python’s built-in re module.
+    Easy to customize for new patterns.
+    Outputs results in a clean, formatted list.

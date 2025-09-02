@@ -1,0 +1,33 @@
+📌 date_extract
+    Extracts dates from text.
+    Supports formats like DD/MM/YYYY, MM-DD-YYYY, YYYY.MM.DD.
+    Useful for log analysis and text mining.
+    Uses regex to detect numeric + separator-based date patterns.
+
+
+📌 email_extract
+    Extracts email addresses from text.
+    Works with formats like example@gmail.com, user.name@domain.co.in.
+    Helps in data cleaning, scraping, and contact extraction.
+    Uses regex to match [username]@[domain].[extension].
+
+
+📌 hashtag_extract 
+    Extracts hashtags (e.g., #Python, #AI).
+    Supports alphanumeric hashtags with underscores.
+    Useful for social media analysis.
+    Regex ensures # followed by word characters is matched.
+
+
+📌 phone_number
+    Extracts phone numbers in different formats.
+    Examples: +91-9876543210, (123)-456-7890, 9876543210.
+    Useful for building contact scrapers.
+    Regex checks for optional country codes and separators.
+
+
+📌 url_extract
+    Extracts URLs from text.
+    Works with http, https, and www links.
+    Examples: https://example.com, www.google.com.
+    Helpful in web scraping and link validation.
