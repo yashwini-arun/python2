@@ -1,0 +1,6 @@
+Item,Quantity,PricePerUnit,Total,Discount%,FinalBill
+Apple,5,30,150,9,136.5
+Milk,2,50,100,8,92.0
+Banana,12,5,60,9,54.6
+Eggs,10,6,60,13,52.2
+Bread,1,40,40,13,34.8

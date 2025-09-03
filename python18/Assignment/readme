@@ -1,0 +1,24 @@
+Files in Assignment folder:
+    bill.csv → Input file with items, quantities, prices.
+    bill_calculation.py → Script to process the bill.
+    bill_summary.csv → Output file with totals and discounts.
+
+What bill_calculation.py does:
+    Reads data from bill.csv.
+    Calculates total price for each item.
+    Applies random discount (5–15%).
+    Computes final bill after discount.
+    Finds most expensive item after discount.
+    Calculates grand total of all items.
+    Saves results in bill_summary.csv.
+    Prints results in aligned table format.
+
+How to run:
+    Open terminal inside Assignment/.
+    all dependencies: pip install pandas numpy tabulate.
+
+Run: python3 bill_calculation.py.
+
+Output:
+    Neatly formatted bill printed in terminal.
+    bill_summary.csv with Item, Quantity, PricePerUnit, Total, Discount%, FinalBill.
