@@ -1,0 +1,78 @@
+[
+    {
+        "title": "Python 101",
+        "author": "Michael Driscoll"
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin"
+    },
+    {
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen"
+    },
+    {
+        "title": "Artificial Intelligence",
+        "author": "Stuart Russell"
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt"
+    },
+    {
+        "title": "Design Patterns",
+        "author": "Erich Gamma"
+    },
+    {
+        "title": "Code Complete",
+        "author": "Steve McConnell"
+    },
+    {
+        "title": "Structure and Interpretation of Computer Programs",
+        "author": "Harold Abelson"
+    },
+    {
+        "title": "Refactoring",
+        "author": "Martin Fowler"
+    },
+    {
+        "title": "Head First Design Patterns",
+        "author": "Eric Freeman"
+    },
+    {
+        "title": "You Don\u2019t Know JS",
+        "author": "Kyle Simpson"
+    },
+    {
+        "title": "Effective Java",
+        "author": "Joshua Bloch"
+    },
+    {
+        "title": "Cracking the Coding Interview",
+        "author": "Gayle Laakmann McDowell"
+    },
+    {
+        "title": "Deep Learning",
+        "author": "Ian Goodfellow"
+    },
+    {
+        "title": "Hands-On Machine Learning",
+        "author": "Aur\u00e9lien G\u00e9ron"
+    },
+    {
+        "title": "Automate the Boring Stuff with Python",
+        "author": "Al Sweigart"
+    },
+    {
+        "title": "Fluent Python",
+        "author": "Luciano Ramalho"
+    },
+    {
+        "title": "Learning Python",
+        "author": "Mark Lutz"
+    },
+    {
+        "title": "Think Python",
+        "author": "Allen B. Downey"
+    }
+]
